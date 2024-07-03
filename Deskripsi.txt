@@ -1,0 +1,28 @@
+Judul
+3D AR Flower Garden
+
+Deskripsi
+Aplikasi "3D AR Flower Garden" adalah aplikasi edukatif dan interaktif yang dirancang untuk membawa keindahan taman bunga langsung ke layar perangkat Anda. Menggunakan teknologi augmented reality (AR), aplikasi ini memungkinkan pengguna untuk menjelajahi berbagai jenis bunga dalam lingkungan 3D yang memukau dan mendalam.
+
+Fitur Utama:
+
+Kartu AR 3D Interaktif: Pengguna dapat memindai kartu khusus dengan perangkat mereka untuk melihat bunga-bunga muncul dalam bentuk 3D di layar. Setiap kartu menampilkan bunga yang berbeda, lengkap dengan informasi menarik tentang bunga tersebut.
+
+Pendidikan dan Hiburan: Aplikasi ini menyediakan informasi mendetail tentang setiap bunga, termasuk asal-usulnya, cara perawatan, habitat, dan fakta menarik lainnya. Ini membantu pengguna belajar sambil menikmati keindahan bunga.
+
+Mode Eksplorasi: Pengguna dapat menjelajahi taman bunga virtual yang luas, mengamati berbagai jenis bunga dari seluruh dunia. Mode ini memberikan pengalaman yang lebih mendalam dan memuaskan.
+
+Konten yang Diperbarui Secara Berkala: Untuk menjaga aplikasi tetap segar dan menarik, konten baru seperti jenis bunga tambahan, fakta-fakta baru, dan fitur-fitur lainnya akan ditambahkan secara berkala.
+
+Manfaat:
+
+Pembelajaran Interaktif: Menggabungkan hiburan dengan pendidikan, membuat belajar tentang bunga menjadi lebih menyenangkan dan menarik.
+Pengalaman AR yang Imersif: Teknologi AR membawa interaksi ke tingkat yang lebih tinggi, memberikan pengalaman yang lebih nyata dan mempesona.
+Pengembangan Kreativitas dan Imajinasi: Pengguna dapat merancang taman bunga mereka sendiri, belajar tentang cara merawat bunga, dan mengembangkan rasa cinta terhadap alam.
+Target Pengguna:
+
+Anak-anak usia 6-14 tahun
+Orang tua yang mencari aplikasi edukatif dan menghibur untuk anak-anak mereka
+Pecinta bunga dan taman yang ingin memperkaya pengetahuan mereka tentang berbagai jenis bunga
+Guru dan pendidik yang ingin memperkaya metode pengajaran mereka dengan teknologi interaktif
+Dengan "3D AR Flower Garden," belajar tentang bunga dan menikmati keindahan taman bunga menjadi pengalaman yang seru dan tak terlupakan, memungkinkan setiap orang untuk menjelajahi keajaiban dunia bunga dari kenyamanan rumah mereka.
